@@ -47,7 +47,7 @@ In this hack you will solve a common challenge for companies migrating to the cl
 
 - Access to an Azure subscription with Owner access
    - If you don't have one, [Sign Up for Azure HERE](https://azure.microsoft.com/en-us/free/)
-- [**Windows Subsystem for Linux (Windows 10-only)**](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+- [**Windows Subsystem for Linux (Windows 10/11-only)**](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 - [**Azure CLI**](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
    - (Windows-only) Install Azure CLI on Windows Subsystem for Linux
    - Update to the latest
